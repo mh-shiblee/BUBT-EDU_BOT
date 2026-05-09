@@ -1,0 +1,506 @@
+{
+  "university_name": "Bangladesh University of Business and Technology (BUBT)",
+  "admission_hotline": "01810033733",
+  "important_links": {
+    "website": "https://bubt.edu.bd",
+    "facebook": "https://www.facebook.com/BUBTOfficial",
+    "qs_ranking": "https://www.topuniversities.com/universities/bangladesh-university-business-technology",
+    "bubt_at_a_glance": "https://bubt.edu.bd/page/bubt-at-a-glance",
+    "research_publications": "https://bubt.edu.bd/research",
+    "class_routine": "https://bubt.edu.bd/routines",
+    "admission": "https://bubt.edu.bd/admission"
+  },
+  "undergraduate_programs": [
+    {
+      "program": "BBA",
+      "total_credit_hours": 132,
+      "total_semester": 12,
+      "per_credit_fee_tk": 3350,
+      "total_course_fee_tk": 554540,
+      "first_semester_fee_tk_cm": 55070,
+      "other_semester_fee_tk": 48420,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 25600
+    },
+    {
+      "program": "B.A. (Hons.) in English",
+      "total_credit_hours": 130,
+      "total_semester": 12,
+      "per_credit_fee_tk": 2400,
+      "total_course_fee_tk": 422300,
+      "first_semester_fee_tk_cm": 46350,
+      "other_semester_fee_tk": 36850,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 20600
+    },
+    {
+      "program": "B.Sc. (Hons.) in Economics",
+      "total_credit_hours": 130,
+      "total_semester": 12,
+      "per_credit_fee_tk": 1950,
+      "total_course_fee_tk": 365840,
+      "first_semester_fee_tk_cm": 48320,
+      "other_semester_fee_tk": 31620,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 20600
+    },
+    {
+      "program": "B.Sc. in Data Science Engg.",
+      "total_credit_hours": 138,
+      "total_semester": 12,
+      "per_credit_fee_tk": 3350,
+      "total_course_fee_tk": 603200,
+      "first_semester_fee_tk_cm": 70850,
+      "other_semester_fee_tk": 52475,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 25600,
+      "description": "The objective of the course is to present an overview of artificial intelligence (AI) principles and approaches. Develop a basic understanding of the building blocks of AI as presented in terms of intelligent agents: Search, Knowledge representation, inference, logic, and learning. Upon successful completion of this course students will be able to design knowledge based systems.",
+      "learning_outcomes": [
+        "design knowledge based systems",
+        "familiarity with terminology used in AI",
+        "analyze important historical and current trends addressing artificial intelligence"
+      ]
+    },
+    {
+      "program": "B.Sc. in CSE",
+      "total_credit_hours": 154,
+      "total_semester": 12,
+      "per_credit_fee_tk": 3350,
+      "total_course_fee_tk": 642160,
+      "first_semester_fee_tk_cm": 67955,
+      "other_semester_fee_tk": 51255,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 25600,
+      "department_established": 2005,
+      "student_count": "3200+",
+      "faculty_count": "100+",
+      "facilities": [
+        "state-of-the-art classrooms",
+        "12 advanced programming labs",
+        "industry-standard facilities"
+      ],
+      "description": "At BUBT, we are committed to shaping tomorrow's leaders and innovators through cutting-edge research and innovation. The Department of Computer Science and Engineering brings together brilliant minds to push the boundaries of computation and create the future."
+    },
+    {
+      "program": "B.Sc. in EEE",
+      "total_credit_hours": 142,
+      "total_semester": 12,
+      "per_credit_fee_tk": 2950,
+      "total_course_fee_tk": 550800,
+      "first_semester_fee_tk_cm": 60475,
+      "other_semester_fee_tk": 54100,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 20600
+    },
+    {
+      "program": "B.Sc. in Textile Engg.",
+      "total_credit_hours": 147,
+      "total_semester": 12,
+      "per_credit_fee_tk": 2500,
+      "total_course_fee_tk": 504200,
+      "first_semester_fee_tk_cm": 61950,
+      "other_semester_fee_tk": 47750,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 20600
+    },
+    {
+      "program": "B.Sc. in Civil Engg.",
+      "total_credit_hours": 150,
+      "total_semester": 12,
+      "per_credit_fee_tk": 2550,
+      "total_course_fee_tk": 508760,
+      "first_semester_fee_tk_cm": 59230,
+      "other_semester_fee_tk": 47630,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 20600
+    },
+    {
+      "program": "B.Sc. in CSE (Diploma Holders)",
+      "total_credit_hours": 139,
+      "total_semester": 12,
+      "per_credit_fee_tk": 1550,
+      "total_course_fee_tk": 336710,
+      "first_semester_fee_tk_cm": 44330,
+      "other_semester_fee_tk": 28755,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "B.Sc. in EEE (Diploma Holders)",
+      "total_credit_hours": 130,
+      "total_semester": 12,
+      "per_credit_fee_tk": 1550,
+      "total_course_fee_tk": 328400,
+      "first_semester_fee_tk_cm": 38600,
+      "other_semester_fee_tk": 30755,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "B.Sc. in Textile Engg. (Diploma Holders)",
+      "total_credit_hours": 130,
+      "total_semester": 12,
+      "per_credit_fee_tk": 1550,
+      "total_course_fee_tk": 313160,
+      "first_semester_fee_tk_cm": 40430,
+      "other_semester_fee_tk": 29505,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "B.Sc. in Civil Engg. (Diploma Holders)",
+      "total_credit_hours": 133,
+      "total_semester": 12,
+      "per_credit_fee_tk": 1550,
+      "total_course_fee_tk": 327410,
+      "first_semester_fee_tk_cm": 38905,
+      "other_semester_fee_tk": 26430,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "LL.B. (Hons.)",
+      "total_credit_hours": 147,
+      "total_semester": 8,
+      "per_credit_fee_tk": 3650,
+      "total_course_fee_tk": 646890,
+      "first_semester_fee_tk_cm": 90830,
+      "other_semester_fee_tk": 88730,
+      "admission_id_card_fee_tk": 10200,
+      "fees_at_admission_tk": 50000
+    }
+  ],
+  "graduate_programs": [
+    {
+      "program": "MBA",
+      "total_credit_hours": 66,
+      "total_semester": 6,
+      "per_credit_fee_tk": 2750,
+      "total_course_fee_tk": 239520,
+      "first_semester_fee_tk_cm": 51920,
+      "other_semester_fee_tk": 49470,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "EMBA",
+      "total_credit_hours": 45,
+      "total_semester": 4,
+      "per_credit_fee_tk": 2750,
+      "total_course_fee_tk": 169410,
+      "first_semester_fee_tk_cm": 52940,
+      "other_semester_fee_tk": 50490,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600,
+      "requirements": "Minimum 2 years of work experience certificate for EMBA Program"
+    },
+    {
+      "program": "M.A. in English Literature",
+      "total_credit_hours": 40,
+      "total_semester": 4,
+      "per_credit_fee_tk": 1500,
+      "total_course_fee_tk": 104940,
+      "first_semester_fee_tk_cm": 37760,
+      "other_semester_fee_tk": 31560,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "M.A. in English Language Teaching (ELT)",
+      "total_credit_hours": 40,
+      "total_semester": 4,
+      "per_credit_fee_tk": 1500,
+      "total_course_fee_tk": 104940,
+      "first_semester_fee_tk_cm": 37760,
+      "other_semester_fee_tk": 31560,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "M.Sc. in Economics",
+      "total_credit_hours": 40,
+      "total_semester": 4,
+      "per_credit_fee_tk": 1500,
+      "total_course_fee_tk": 105660,
+      "first_semester_fee_tk_cm": 37940,
+      "other_semester_fee_tk": 31740,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "LLM (One Year)",
+      "total_credit_hours": 41,
+      "total_semester": 2,
+      "per_credit_fee_tk": 1650,
+      "total_course_fee_tk": 100510,
+      "first_semester_fee_tk_cm": 55780,
+      "other_semester_fee_tk": 46730,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    },
+    {
+      "program": "M.Sc. in CSE (Project Based)",
+      "total_credit_hours": 40,
+      "total_semester": 3,
+      "per_credit_fee_tk": 2750,
+      "total_course_fee_tk": 146420,
+      "first_semester_fee_tk_cm": 50190,
+      "other_semester_fee_tk": 47740,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600,
+      "description": "The Master of Science in Computer Science & Engineering (MSc in CSE) is a postgraduate academic program designed to provide advanced knowledge and practical skills in modern computing.",
+      "core_areas": [
+        "advanced programming",
+        "algorithms",
+        "data structures",
+        "software engineering",
+        "databases",
+        "operating systems",
+        "computer networks",
+        "system architecture"
+      ],
+      "emerging_fields": [
+        "data science",
+        "artificial intelligence",
+        "machine learning",
+        "cloud computing",
+        "cybersecurity"
+      ],
+      "career_outcomes": [
+        "professional careers in the technology industry",
+        "academic research",
+        "innovation-driven environments",
+        "further studies such as PhD programs"
+      ]
+    },
+    {
+      "program": "M.Sc. in CSE (Thesis Based)",
+      "total_credit_hours": 40,
+      "total_semester": 4,
+      "per_credit_fee_tk": 2750,
+      "total_course_fee_tk": 146420,
+      "first_semester_fee_tk_cm": 47880,
+      "other_semester_fee_tk": 45430,
+      "admission_id_card_fee_tk": 5200,
+      "fees_at_admission_tk": 15600
+    }
+  ],
+  "evaluation_system": {
+    "general_programs": {
+      "total_marks": 100,
+      "components": [
+        { "name": "Attendance", "percentage": 5 },
+        { "name": "Quizzes", "percentage": 5 },
+        { "name": "Class Tests & Tutorial", "percentage": 10 },
+        { "name": "Assignment/Presentation/Lab/Project", "percentage": 10 },
+        { "name": "Mid-Term Exam. (Middle of the Semester)", "percentage": 30 },
+        { "name": "Final Exam. (End of the Semester)", "percentage": 40 }
+      ]
+    },
+    "llb_llm_programs": {
+      "total_marks": 100,
+      "components": [
+        { "name": "Attendance", "percentage": 10 },
+        { "name": "Class Test", "percentage": 10 },
+        { "name": "Assignment and Presentation", "percentage": 10 },
+        {
+          "name": "Mid term Examination (Middle of the Semester)",
+          "percentage": 30
+        },
+        { "name": "Final Examination (End of the Semester)", "percentage": 40 }
+      ]
+    }
+  },
+  "grading_system": [
+    {
+      "numerical_grade": "80% and above",
+      "letter_grade": "A+",
+      "grade_point": 4.0
+    },
+    {
+      "numerical_grade": "75% to less than 80%",
+      "letter_grade": "A",
+      "grade_point": 3.75
+    },
+    {
+      "numerical_grade": "70% to less than 75%",
+      "letter_grade": "A-",
+      "grade_point": 3.5
+    },
+    {
+      "numerical_grade": "65% to less than 70%",
+      "letter_grade": "B+",
+      "grade_point": 3.25
+    },
+    {
+      "numerical_grade": "60% to less than 65%",
+      "letter_grade": "B",
+      "grade_point": 3.0
+    },
+    {
+      "numerical_grade": "55% to less than 60%",
+      "letter_grade": "B-",
+      "grade_point": 2.75
+    },
+    {
+      "numerical_grade": "50% to less than 55%",
+      "letter_grade": "C+",
+      "grade_point": 2.5
+    },
+    {
+      "numerical_grade": "45% to less than 50%",
+      "letter_grade": "C",
+      "grade_point": 2.25
+    },
+    {
+      "numerical_grade": "40% to less than 45%",
+      "letter_grade": "D",
+      "grade_point": 2.0
+    },
+    {
+      "numerical_grade": "Less than 40%",
+      "letter_grade": "F",
+      "grade_point": 0.0
+    }
+  ],
+  "gpa_computation_example": {
+    "courses": [
+      {
+        "course": "Course 1",
+        "grade_earned": "A+",
+        "grade_point": 4.0,
+        "credit_hour": 3,
+        "g_x_c": 12
+      },
+      {
+        "course": "Course 2",
+        "grade_earned": "B",
+        "grade_point": 3.0,
+        "credit_hour": 3,
+        "g_x_c": 9
+      },
+      {
+        "course": "Course 3",
+        "grade_earned": "A",
+        "grade_point": 3.75,
+        "credit_hour": 3,
+        "g_x_c": 11.25
+      },
+      {
+        "course": "Course 4",
+        "grade_earned": "B+",
+        "grade_point": 3.25,
+        "credit_hour": 2,
+        "g_x_c": 6.5
+      },
+      {
+        "course": "Course 5",
+        "grade_earned": "A-",
+        "grade_point": 3.5,
+        "credit_hour": 1,
+        "g_x_c": 3.5
+      }
+    ],
+    "total_credit_hours": 12,
+    "total_g_x_c": 42.25,
+    "formula": "GPA = Total (G x C) / Total Credit Hours"
+  },
+  "academic_policies": {
+    "general_notes": [
+      "Caution money/Security money Tk. 3,000 for Undergraduate Programs, Tk. 2,000 for Graduate Programs (Refundable)",
+      "Other Activity Fee Tk. 3,000 (Non-Refundable) to be paid with 1st semester fees",
+      "Other Semesters cost will depend on the number of credits offered",
+      "The university authorities have the right to revise the fee structure on a semester basis",
+      "No refund will be provided in case of admission cancellation",
+      "The stated fee structure will remain the same unless there is no course retake, grade improvement, or extension of the study period",
+      "Students must have at least a CGPA of 2.00 for Undergraduate Programs and 2.50 for Graduate Programs to receive the university certificate"
+    ],
+    "f_grade_policy": {
+      "description": "For 'F' grade holder the course must be repeated within the next 3 consecutive semesters",
+      "fee": "Full fee for retake course/courses"
+    },
+    "grade_improvement_policy": {
+      "application_deadline": "Within 2 weeks after publication of result",
+      "fee": "Half tuition fee (credit hour basis)",
+      "effect": "Improved grade computed in final transcript; previous grade marked with 'R' (no effect on GPA/CGPA)"
+    }
+  },
+  "admission_requirements": [
+    "GPA: Minimum 2.50 in both SSC and HSC, or a combined GPA of 6.00 if one is 2.00",
+    "O and A Levels: At least 5 subjects in O Level and 2 in A Level. 4 subjects with B grade and 3 with C grade required. No D & E grade will be considered",
+    "Science Background: Math, Physics and Chemistry for CSE, DSE, EEE, Textile and Civil Engineering",
+    "GED Diploma: Not eligible for admission",
+    "Bachelor's Degree: Minimum CGPA of 2.00 with relevant field from a recognized university",
+    "Experience: Minimum 2 years of work experience for EMBA Program",
+    "Foreign Degree: Must submit equivalence certificate from MOE/UGC, Bangladesh"
+  ],
+  "required_documents": [
+    "One photocopy each of SSC/O-Level, HSC/A-Level/Diploma Certificates and Marksheets (Bachelor's Certificate and Marksheet for Master's Admission)",
+    "SSC and HSC Admit Cards, Registration Cards/Statement of Entry (for English Medium)",
+    "NID/Birth Certificate",
+    "Two passport size recent color photographs (studio lab print with formal for ID card)",
+    "Applicant/Candidate must be present at the time of admission"
+  ],
+  "scholarships_and_waivers": {
+    "merit_based": [
+      { "criteria": "GPA 10.00 / CGPA 4.00", "waiver_percentage": 100 },
+      {
+        "criteria": "GPA 09.50-09.99 / CGPA 3.91-3.99",
+        "waiver_percentage": 50
+      },
+      {
+        "criteria": "GPA 09.00-09.49 / CGPA 3.80-3.90",
+        "waiver_percentage": 25
+      }
+    ],
+    "special_waivers": [
+      { "category": "Poor & Meritorious", "waiver_percentage": "10% - 100%" },
+      { "category": "Siblings", "waiver_percentage": 25 },
+      {
+        "category": "Son/Daughter of Freedom Fighters",
+        "waiver_percentage": 100
+      },
+      { "category": "Mirpur Area College", "waiver_percentage": 10 },
+      { "category": "BUBT/DCC Graduates", "waiver_percentage": 20 },
+      { "category": "Dhaka Commerce College", "waiver_percentage": 25 },
+      { "category": "Principal Kazi Faruky College", "waiver_percentage": 25 }
+    ]
+  },
+  "campus_facilities": [
+    {
+      "name": "Library",
+      "description": "The BUBT Library is a central academic resource that supports teaching, learning, and research activities. It offers a wide collection of books, journals, digital resources, and research materials across disciplines. The library provides quiet study areas, digital access facilities, and research assistance services."
+    },
+    {
+      "name": "Medical and Health Services",
+      "description": "The Medical Unit at BUBT plays an essential role in promoting a healthy campus environment.",
+      "services": [
+        "first aid",
+        "basic medical treatment",
+        "mental health counseling",
+        "emergency medical support"
+      ]
+    },
+    {
+      "name": "Transport Services",
+      "description": "Transport Services at BUBT are provided to ensure safe, reliable, and convenient commuting for students and staff.",
+      "key_priorities": ["safety", "punctuality", "efficiency"]
+    }
+  ],
+  "research_and_publications": {
+    "total_publications": 1529,
+    "faculty_members": 248,
+    "departments": 15,
+    "facilities": 6
+  },
+  "accreditations_and_memberships": {
+    "approval": "Approved by the Ministry of Education, Government of Bangladesh, on the recommendation of the University Grants Commission",
+    "ranking_note": "One of the top ranking Private Universities in Bangladesh",
+    "collaborations": "Academic collaboration and credit transfer facilities with a number of foreign Universities",
+    "memberships": [
+      "Association of Commonwealth Universities",
+      "Association of International Universities",
+      "Association of Management Development Institution in South Asia"
+    ]
+  }
+}
