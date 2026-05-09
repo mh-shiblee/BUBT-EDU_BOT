@@ -5,7 +5,7 @@ An AI-powered chatbot for Bangladesh University of Business and Technology (BUBT
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the chatbot](https://your-app-url.streamlit.app)
+👉 [Click here to try the chatbot]([https://your-app-url.streamlit.app](https://bubt-edubot-di3zq54wuzczu7canb2j5c.streamlit.app/))
 
 ---
 
